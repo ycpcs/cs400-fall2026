@@ -1,18 +1,13 @@
 ---
 layout: default
-course_number: CS400
-title: CS Capstone I
+title: Home page
 ---
 
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+# CS 400, Fall 2026
 
-## CS400: CS Capstone I
+<div id="subtitle">Capstone Design I</div>
 
-## Fall 2026
-
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-
-This is the website for CS 400 (CS Capstone I) Fall 2026 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
+Welcome to the website for CS 400, Capstone Design I, at York College.  All information about the course will be posted here.
 
 Here are the links for the CS Capstone I projects for Fall 2026:
 
