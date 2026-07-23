@@ -47,7 +47,7 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("** Milestone 1: Minimal Working System", "../../assign/assign05.html"),
+		topic: new Topic("MILESTONE 1: Minimal Working System", "../../assign/assign05.html"),
 	},
 	{
 		topic: new Topic("Workday", ""),
@@ -65,7 +65,7 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("** Milestone 2: 50% Working System", "../../assign/assign06.html"),
+		topic: new Topic("MILESTONE 2: 50% Working System", "../../assign/assign06.html"),
 	},
 	{
 		topic: new Topic("Workday", ""),
@@ -80,7 +80,7 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("** Milestone 3: Final Working System", "../../assign/assign07.html"),
+		topic: new Topic("MILESTONE 3: Final Working System", "../../assign/assign07.html"),
 	},
 	{
 		topic: new Topic("Workday", ""),
