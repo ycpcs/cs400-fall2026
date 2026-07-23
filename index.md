@@ -15,7 +15,7 @@ Here are the links for the CS Capstone I projects for Fall 2026:
 
 [YCPHacks Website Project Course Web Page](./projects/YCPHacks-Project/index.html).
 
-[ABET App Website Project Course Web Page](./projects/ABETApp-Project/index.html).
+[ABET App Website Project Course Web Page](./projects/ABET-Project/index.html).
 
 ## Links
 
