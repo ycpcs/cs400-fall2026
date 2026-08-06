@@ -11,6 +11,9 @@ This is the web page for the YCPHacks Project for CS 400 Fall 2026 at [York Coll
 * [Schedule](schedule.html)
 
 ## YCPHacks Project Description
+
+[YCPHacks Final Technical Report](YCPHacks_Technical_Report_Sp26_.pdf) from Spring 2026.
+
 Here is the [initial description for the YCPHacks Website Project](YCPHacks-Capstone-Project-Description.pdf)
 
 You will be continuing development of this project, building upon the accomplishments of previous year's CS Capstone I (CS400) and Capstone II (CS402) teams.  You will acquire the information for your project proposal, Use Cases and User Stories, and Requirements from your clients, as well as from the prior team's progress (Final Technical Reports from CS400 and CS402).  Your clients will also establish your tasks and priorities in consultation with us, and with your input, as you plan and develop the sprint schedule for your agile development approach.

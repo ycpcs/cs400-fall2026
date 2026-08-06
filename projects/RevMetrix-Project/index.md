@@ -11,6 +11,11 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2026 at [York Col
 * [Schedule](schedule.html)
 
 ## RevMetrix Project Description
+
+[RevMetrix Final Technical Report](RevMetrix_Technical_Report_Sp26_.pdf) from Spring 2026.
+
+[Wiki](https://docs.revmetrix.io/)
+
 Here are links to the previous research that Professor Hake conducted as part of his Master's Theses.
 
 [RevMetrix MEng ESci Thesis](Hake-MEngESci-Masters-Thesis.pdf)
