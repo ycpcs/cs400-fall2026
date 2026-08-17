@@ -33,7 +33,7 @@ title: Syllabus
 **Email:** <dbabcock@ycp.edu><br>
 **Office:** KEC 117<br>
 **Phone:** (717) 815-6442<br>
-**Office Hours:** TBD, or by appointment
+**Office Hours** (KEC117A): M 10AM-12PM, T 9:30-11AM, W 2-3PM, R 9:30-11AM, or by appointment
 
 **Consultant/Client**
 > Donald J. Hake II<br>
