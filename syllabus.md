@@ -79,7 +79,7 @@ Your individual contribution to team project will be based on your team's overal
 Your **individual project grade** will represent 45% of your overall individual course grade on the remaining 2 assignments, as follows:
 
 -   Assignment 2 - Weekly Progress Journals, Status Reports, Demonstrations - **20%**
--	Assignment 8 - Professionalism, Leadership, Team Work, and Peer Evaluations - **25%**"
+-	Assignment 8 - Professionalism, Leadership, Team Work, and Peer Evaluations - **25%**
 
 The weekly progress journals, status reports, and demonstrations will be graded on a qualitative *exceeds expectations*, *meets expectations*, or *below expectations* scale as determined by both the amount of effort documented along with the significance of that effort.
 
