@@ -12,7 +12,7 @@ This is the web page for the YCPHacks Project for CS 400 Fall 2026 at [York Coll
 
 ## YCPHacks Project Description
 
-[YCPHacks Final Technical Report](YCPHacks_Technical_Report_Sp26_.pdf) from Spring 2026.
+[YCPHacks Final Technical Report](YCPHacks_Technical_Report_Sp26.pdf) from Spring 2026.
 
 Here is the [initial description for the YCPHacks Website Project](YCPHacks-Capstone-Project-Description.pdf)
 

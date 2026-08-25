@@ -12,7 +12,7 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2026 at [York Col
 
 ## RevMetrix Project Description
 
-[RevMetrix Final Technical Report](RevMetrix_Technical_Report_Sp26_.pdf) from Spring 2026.
+[RevMetrix Final Technical Report](RevMetrix_Technical_Report_Sp26.pdf) from Spring 2026.
 
 [Wiki](https://docs.revmetrix.io/)
 
