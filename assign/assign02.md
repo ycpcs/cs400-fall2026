@@ -21,6 +21,8 @@ They are due by 9:00am (before class) on the day of your project presentations, 
 
 **DO NOT wait until the last minute to update your weekly journal.  You are to maintain this journal daily, as you perform work on the project.  DO NOT rely on your memory to capture your weekly effort at the end of the week.**
 
+Here is a sample weekly entry [Weekly Journal Sample](Weekly_Journal_Sample.pdf)
+
 ### Issue Tracker (individual)
 
 Each team member should have at least one issue in the team's issue tracker they are responsible for.  Each week, each team member should add at least one comment to this issue to document his or her work for the week.  These comments should be comprehensive - do **NOT** simply write a couple of lines - make sure to provide enough detail so that other team members and your instructors and advisors can comprehend what you've accomplished.  Each weekly entry should contain a list of the following:
@@ -39,7 +41,7 @@ On the weeks that you do not have an Assignment or Milestone to present, you wil
 
 During the weekly status reports, the team should begin by presenting a overall summary of the progress for the *project* as a whole for the past week. Then each student will present their *individual* progress. Your job is to briefly (5 minutes)) present/demonstrate what you worked on **individually** during the previous week, and how your efforts are contributing to the overall success of your team's portion of the project.  You should present two or three of your most important contributions (as documented in your journal entry for the previous week). This exercise is useful not only to inform the instructors of your progress, but also share out information to fellow team members.
 
-Each team member should create a summary slide using the [weekly status report template](status_template.html) to present:
+Each team member should create a summary slide using the [weekly status report template](status_template.pdf) to present:
 
 * What was *planned* to be accomplished over the past week
 * What was *actually* accomplished over the past week
