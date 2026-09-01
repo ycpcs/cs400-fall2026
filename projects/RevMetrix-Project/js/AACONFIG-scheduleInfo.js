@@ -62,12 +62,6 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("Status Report", "../../assign/assign02.html"),
-	},
-	{
-		topic: new Topic("Workday", ""),
-	},
-	{
 		topic: new Topic("Workday", ""),
 	},
 	{
