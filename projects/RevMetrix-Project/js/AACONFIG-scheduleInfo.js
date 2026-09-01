@@ -14,16 +14,19 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
+		topic: new Topic("Workday", ""),
+	},
+	{
 		topic: new Topic("Proposal", "../../assign/assign01.html"),
 	},
 	{
 		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("Requirements", "../../assign/assign03.html"),
+		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("Workday", ""),
+		topic: new Topic("Requirements", "../../assign/assign03.html"),
 	},
 	{
 		topic: new Topic("Workday", ""),
@@ -65,6 +68,9 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
+		topic: new Topic("Workday", ""),
+	},
+	{
 		topic: new Topic("MILESTONE 2: 50% Working System", "../../assign/assign06.html"),
 	},
 	{
@@ -80,10 +86,10 @@ courseInfo.classPeriods = [
 		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("MILESTONE 3: Final Working System", "../../assign/assign07.html"),
+		topic: new Topic("Workday", ""),
 	},
 	{
-		topic: new Topic("Workday", ""),
+		topic: new Topic("MILESTONE 3: Final Working System", "../../assign/assign07.html"),
 	},
 ];
 
